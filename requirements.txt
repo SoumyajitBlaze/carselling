@@ -97,7 +97,7 @@ requests
 rope 
 
 Send2Trash
-sip==4.19.13
+
 six 
 snowballstemmer==2.0.0
 sortedcontainers 
